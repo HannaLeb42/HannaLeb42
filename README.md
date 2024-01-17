@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hanna. I want to be coder. 
+- 👀 I’m interested in Pyth, MCAL.
+- 🌱 I’m currently learning SQL.
